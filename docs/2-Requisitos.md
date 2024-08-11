@@ -22,31 +22,17 @@ Enumerem os requisitos funcionais previstos para a aplicação a ser desenvolvid
 | RF02 | ...  |  | |
 | ... | ... | ...| ... |
 
-
-
 *B=Baixa, M=Média, A=Alta.
 Obs: acrescente quantas linhas forem  necessárias.
 
 ## 2.4 Requisitos Não Funcionais
 Enumere, nesta seção secundária, os requisitos não-funcionais previstos para sua aplicação. Entre os requisitos não funcionais, inclua todos os que julgar importante do ponto de vista arquitetural, ou seja, os requisitos que terão impacto na definição da arquitetura. Os requisitos devem ser descritos de forma completa e preferencialmente quantitativa.
-ID
-Descrição
-Prioridade
-B/M/A
-RNF01
-O sistema deve ser acessível nas plataformas web e móvel 
-A
-RNF02
-...
 
-...
-
-
-...
-
-
-...
-
+| ID | Descrição Resumida | Prioridade <br> (B/M/A)* |
+| -- | ------------------ | ------------------------ |
+| RNF01 | O sistema deve ser acessível nas plataformas web e móvel | A |
+| RNF02 | ...  |  |
+| ... | ... | ...|
 
 Obs: acrescente quantas linhas seja necessário.
 
@@ -54,8 +40,10 @@ Obs: acrescente quantas linhas seja necessário.
 Apresente uma modelagem dos requisitos funcionais previstos para sua aplicação, utilizando a descrição resumida de Casos de Uso ou o formato de Histórias de Usuário.
 
 Exemplo de descrição resumida de Casos de Uso:
-UC01 – NOME DO CASO DE USO
-Descrição
+
+| UC01 – NOME DO CASO DE USO |
+| -------------------------- |
+| Descrição | kkk |
 
 Atores
 
