@@ -2,40 +2,30 @@
 Nesta seção (2) deve-se descrever os requisitos comtemplados na descrição arquitetural, divididos em dois grupos: funcionais e não funcionais. 
 
 ## 2.1 Lista de Atores
-Nesta seção secundária devem ser apresentados os atores  da sua aplicação. Para iniciar o trabalho, recomenda-se utilizar a abordagem *Design Thinking*, disponível em: [https://designthinking.ideo.com/] e [https://sebrae.com.br/sites/PortalSebrae/artigos/design-thinking-inovacao-pela-criacao-de-valor-para-o-cliente,c06e9889ce11a410VgnVCM1000003b74010aRCRD]. 
+Nesta seção secundária devem ser apresentados os atores  da sua aplicação. Para iniciar o trabalho, recomenda-se utilizar a abordagem *Design Thinking*, disponível em: 
+* https://designthinking.ideo.com/ e;
+* https://sebrae.com.br/sites/PortalSebrae/artigos/design-thinking-inovacao-pela-criacao-de-valor-para-o-cliente,c06e9889ce11a410VgnVCM1000003b74010aRCRD. 
 
 ## 2.2 Lista de Funcionalidades
 Apresentem aqui uma lista das funcionalidades a serem atendidas no projeto, na visão do cliente.
 Os requisitos aqui apresentados correspondem às funcionalidades solicitadas pelo parceiro/cliente na visão de negócio, tais como:
-    • Cadastrar...
-    • Gerenciar...
-    • Gerar relatórios ou gráficos...
+* Cadastrar...
+* Gerenciar...
+* Gerar relatórios ou gráficos...
 
 ## 2.3 Requisitos Funcionais
 Enumerem os requisitos funcionais previstos para a aplicação a ser desenvolvida. Lembrem-se de listar todos os requisitos que serão implementados, com a dificuldade e a prioridade relativa de cada um no projeto. A dificuldade prevista tem relação com o esforço necessário para implementação, e a prioridade tem relação com a importância daquele requisito específico.
-ID
-Descrição Resumida
-Dificuldade (B/M/A)*
-Prioridade
-(B/M/A)*
-RF01
-O sistema deve permitir o cadastramento do usuário
-B
-A
-RF02
-...
 
-
-...
-
-
-
-...
+| ID | Descrição Resumida | Dificuldade <br> (B/M/A)* | Prioridade <br> (B/M/A)* |
+| -- | ------------------ | -------------------- | ------------------- |
+| RF01 | O sistema deve permitir o cadastramento do usuário | B | A |
+| RF02 | ...  |  | |
+| ... | ... | ...| ... |
 
 
 
 *B=Baixa, M=Média, A=Alta.
-Obs: acrescente quantas linhas seja necessário.
+Obs: acrescente quantas linhas forem  necessárias.
 
 ## 2.4 Requisitos Não Funcionais
 Enumere, nesta seção secundária, os requisitos não-funcionais previstos para sua aplicação. Entre os requisitos não funcionais, inclua todos os que julgar importante do ponto de vista arquitetural, ou seja, os requisitos que terão impacto na definição da arquitetura. Os requisitos devem ser descritos de forma completa e preferencialmente quantitativa.
