@@ -26,14 +26,13 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="docs/1-Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Modelagem-Processos-Negócio.md"> Modelagem dos Processos de Negocio</a></li>
-<li><a href="docs/4-Projeto-Solucao.md"> Projeto da solução</a></li>
-<li><a href="docs/5-Gerenciamento-Projeto.md"> Gerenciamento do Projeto</a></li>
-<li><a href="docs/6-Interface-Sistema.md"> Interface do Sistema</a></li>
-<li><a href="docs/7-Conclusão.md"> Conclusão</a></li>
-<li><a href="docs/8-Referências.md"> Referências</a></li>
+<li><a href="docs/1-Apresentação.md"> Apresentação </a></li>
+<li><a href="docs/2-Requisitos.md"> Requisitos </a></li>
+<li><a href="docs/3-Modelagem-Diagramas.md"> Modelagem e diagramas arquiteturais </a></li>
+<li><a href="docs/4-Avaliação-Resultados.md"> Avaliação Crítica dos Resultados </a></li>
+<li><a href="docs/5-Conclusão.md"> Conclusão </a></li>
+<li><a href="docs/6-Referências.md"> Referências </a></li>
+<li><a href="docs/7-Apêndices.md"> Apêndices </a></li>
 </ol>
 
 # Código
