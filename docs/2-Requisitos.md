@@ -43,25 +43,18 @@ Exemplo de descrição resumida de Casos de Uso:
 
 | UC01 – NOME DO CASO DE USO |
 | -------------------------- |
-| Descrição | kkk |
-
-Atores
-
-Prioridade
-
-Requisitos
-associados
-
-Fluxo Principal
+| Descrição |  |
+| Atores    | Teste  |
+| Prioridade | |
+| Requisitos associados | |
+| Fluxo Principal | |
 
 
 Exemplo de História de Usuários:
-EU, COMO... PAPEL 
-QUERO/PRECISO... FUNCIONALIDADE
-PARA... MOTIVO/VALOR
-José, Gestor da ONG... 
-Como um gestor, quero...
-Melhorar o atendimento...
+
+| EU, <br> COMO... <br> PAPEL |  QUERO/PRECISO... <br> FUNCIONALIDADE | PARA... <br> MOTIVO/VALOR |
+| ---- | ---- | ---- |
+| José, Gestor da ONG... | Como um gestor, quero... | Melhorar o atendimento... |
 
 
 ## 2.6 Restrições Arquiteturais
@@ -76,27 +69,14 @@ Na coluna Análise devem ser listados os aspectos gerais que compõem a arquite
 A coluna Design deve identificar o padrão tecnológico a seguir para cada mecanismo identificado na Análise.
 A coluna Implementação deve identificar o produto/ferramenta a ser utilizado na solução específica.
 
-Análise
-Design
-Implementação
-Persistência
-ORM
-Hibernate
-Front end
-Biblioteca JS
-React, JavaScript, HTML
-Back end
-Biblioteca JS
-Node, com o framework Next.JS
-Integração
-
-
-Teste de Software
-
-
-Deploy
-
-
-...
+| Análise | Design | Implementação | 
+|--- | --- | --- |
+| Persistência | ORM | Hibernate |
+| Front end | Biblioteca JS | React, JavaScript, HTML |
+| Back end | Biblioteca JS | Node, com o framework Next.JS |
+| Integração | | |
+| Teste de Software | | |
+| Deploy | | |
+| ... | | |
 
 
