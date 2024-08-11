@@ -59,9 +59,9 @@ Exemplo de História de Usuários:
 
 ## 2.6 Restrições Arquiteturais
 Enumerem as principais restrições arquiteturais. Restrições arquiteturais geralmente não são consideradas requisitos, mas apenas limitam a solução a ser desenvolvida, obrigando-a a atendê-las. 
- As restrições impostas ao projeto que afetam sua arquitetura podem ser, por ex.: 
-    • O software deverá ser desenvolvido em Python, no framework Django;
-    • A API desenvolvida deve seguir o padrão ReSTful.
+ As restrições impostas ao projeto que afetam sua arquitetura podem ser, por ex.:
+ * O software deverá ser desenvolvido em Python, no framework Django;
+ * A API desenvolvida deve seguir o padrão ReSTful.
 
 ## 2.7 Mecanismos Arquiteturais 
 Esta seção deve apresentar uma visão geral dos mecanismos que compõem a arquitetura do sosftware baseando-se em três estados: (1) análise, (2) design e (3) implementação. 
