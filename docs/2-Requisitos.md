@@ -2,7 +2,7 @@
 Nesta seção (2) deve-se descrever os requisitos comtemplados na descrição arquitetural, divididos em dois grupos: funcionais e não funcionais. 
 
 ## 2.1 Lista de Atores
-Nesta seção secundária devem ser apresentados os atores  da sua aplicação. Para iniciar o trabalho, recomenda-se utilizar a abordagem Design Thinking, disponível em: https://designthinking.ideo.com/ e https://sebrae.com.br/sites/PortalSebrae/artigos/design-thinking-inovacao-pela-criacao-de-valor-para-o-cliente,c06e9889ce11a410VgnVCM1000003b74010aRCRD. 
+Nesta seção secundária devem ser apresentados os atores  da sua aplicação. Para iniciar o trabalho, recomenda-se utilizar a abordagem *Design Thinking*, disponível em: [https://designthinking.ideo.com/] e [https://sebrae.com.br/sites/PortalSebrae/artigos/design-thinking-inovacao-pela-criacao-de-valor-para-o-cliente,c06e9889ce11a410VgnVCM1000003b74010aRCRD]. 
 
 ## 2.2 Lista de Funcionalidades
 Apresentem aqui uma lista das funcionalidades a serem atendidas no projeto, na visão do cliente.
