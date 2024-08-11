@@ -1,6 +1,6 @@
-# REFERÊNCIAS
+# Referências
 
-_Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso você deseje incluir referências relacionadas às tecnologias, padrões, ou metodologias que serão usadas no seu trabalho, relacione-as de acordo com a ABNT._
+_Para realizado este trabalho deve ter sido realizada uma revisão bibliográfica. Devem ser incluídas aqui as referências utilizadas._
 
 _Verifique no link abaixo como devem ser as referências no padrão ABNT:_
 
